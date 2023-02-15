@@ -23,6 +23,9 @@ One of the following permissions is required to call this API. To learn more, in
 | Delegated (personal Microsoft account) | Not supported. |
 | Application | TeamMember.ReadWrite.All   |
 
+> [!NOTE]
+> Using application permissions to [add guest members](/microsoft-365/admin/add-users/about-guest-users?view=o365-worldwide&preserve-view=true) to a team is not supported.
+
 
 ## HTTP Request
 
